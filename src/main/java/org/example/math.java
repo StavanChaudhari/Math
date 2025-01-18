@@ -78,7 +78,7 @@ public class math {
                         break;
                 }
                 if (running) {
-                    System.out.println("\nPress Enter to continue...");
+                    System.out.println("\nPress Enter to continue....");
                     sc.nextLine();
                 }
             } catch (Exception e) {
