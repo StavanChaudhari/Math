@@ -12,8 +12,8 @@ public class geometry {
                 	1.Regular polyhedron
                 	2.Two dimensional shapes
                 	3.Three dimensional shapes
-                	3.Co-ordinate geometry
-                	4.Trigonometry
+                	4.Co-ordinate geometry
+                	5.Trigonometry
                 """);
     }
 
