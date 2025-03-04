@@ -19,7 +19,7 @@ public class geometry {
 
     public static void run() {
         printChoice();
-        int ch1 = math.validateIntInput(sc, 1, 4);
+        int ch1 = math.validateIntInput(sc, 1, 5);
         switch (ch1) {
             case 1:
                 regularPolyhedron.printChoice();
